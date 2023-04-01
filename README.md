@@ -1,5 +1,8 @@
 # SenSync
 
+**NOTE: 
+The individual components: fetching health data in the background from the frontend as well as the model prediction are fully functional separately but are not currently integrated due to an end moment error.
+
 An app that detects sensory overload in individuals with autism and links them with their caregiver to help them better! Solution for Google Developer Solution Challenge
 
 ## Running the project
